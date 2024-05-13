@@ -32,7 +32,7 @@
             "id": "5",
             "name": "Open green spaces",
             "description": "Open green spaces play a crucial role in flood prevention by serving as natural flood management measures. These areas, such as parks, fields, and wetlands, provide essential space for water to infiltrate the ground, reducing the risk of surface runoff during heavy rainfall. The vegetation in open green spaces acts as a natural sponge, absorbing excess water and slowing down its flow into nearby water bodies, such as rivers and streams. By allowing water to spread out and be naturally absorbed by the soil, open green spaces help to mitigate the intensity and speed of floodwaters. Additionally, these spaces can act as temporary storage areas during flood events, providing a buffer that reduces the pressure on built-up areas. The presence of open green spaces in urban environments not only contributes to flood prevention but also offers recreational benefits, wildlife habitats, and improved overall urban resilience.",
-            "icon": "Earth",
+            "icon": "NBSReactivation",
             "cost": 70000
         }
     ]
