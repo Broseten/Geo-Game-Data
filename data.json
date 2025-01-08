@@ -1,5 +1,5 @@
 {
-    "serverURL": "http://localhost:1337",
+    "serverURL": "http://temp.craftmystreet.com:8080/",
     "maxPlayers": 4,
     "roles": [
         "Community Leader",
