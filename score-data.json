@@ -1,0 +1,240 @@
+{
+    "roles": [
+        "Community Leader",
+        "Developer",
+        "Elder",
+        "Environmentalist",
+        "Historian",
+        "Non-government Organization",
+        "Officer",
+        "Politician",
+        "Young Person",
+        "Other"
+    ],
+    "solutions": [
+        {
+            "id": "2",
+            "name": "Afforestation",
+            "description": "Planting trees or sowing seeds in areas that have never been forested, to create a forest. This measure contributes to reduce land erosion, to increase slope stability and regulate water flow and also, to protect communities from natural hazards, to increase carbon sequestration, and to recharge water supply.",
+            "image": "afforestation",
+            "price": 8000,
+            "default": true
+        },
+        {
+            "id": "3",
+            "name": "Beach nourishment",
+            "description": "Replenishment or nourishment of the lost beach sediment with suitable (preferably indigenous or identical) filling sediments, and preferably retrieved from local sources. The objective is to protect the beach and increase the carrying capacity for recreation purposes under increasing sea-level rise.",
+            "image": "beach_nourishment",
+            "price": 12000,
+            "default": true
+        },
+        {
+            "id": "4",
+            "name": "Bioswales",
+            "description": "Landscape depression that receives and filters water runoffs back to the sewer water system through water-holding vegetation and organic materials. Bioswales are channels designed to concentrate and channel stormwater runoff while removing debris and pollution. Bioswales can also be useful for recharging groundwater. They consist of a drainage course with slightly inclined sides. These are most effective if placed near roofs, roads, parking lots and driveways to catch and direct water coming from hard surfaces. This measure contributes to reduce infiltration and filter out pollutants.",
+            "image": "bioswales",
+            "price": 5000,
+            "default": true
+        },
+        {
+            "id": "5",
+            "name": "Cliff stabilisation",
+            "description": "Measures to prevent cliff recession and increase the stability of the slope through re-vegetating the slope or placing sand or pebbles at the foot of the cliff (littoral strip reloading). This measure seeks to reduce marine erosion at the foot of the cliffs and reduce negative environmental and landscape impact.",
+            "image": "cliff_stabilisation",
+            "price": 15000,
+            "default": true
+        },
+        {
+            "id": "6",
+            "name": "Dry stone terraces",
+            "description": "It concerns the methodology related to making stone constructions by stacking landscape-available stones upon each other, without using any other materials (like cement, concrete, etc.) except sometimes dry soil. The stability of the structures is ensured through the careful selection and placement of the stones, and like these dry-stone structures have shaped numerous, diverse landscapes, forming various modes of dwelling, farming and husbandry.",
+            "image": "dry_stone_terraces",
+            "price": 7000,
+            "default": true
+        },
+        {
+            "id": "7",
+            "name": "Estuary protection and regeneration",
+            "description": "The process of managing the estuary landscape to reinstate natural processes restoring biodiversity and providing benefits to both people and wildlife. Estuaries are stabilised by reducing the force of incoming waves, while constituting an important source of carbon sequestration in coastal areas. They serve as physical buffers that retain excess water, to dissipate wave energy, to stabilize shorelines.",
+            "image": "estuary_protection_and_regeneration",
+            "price": 10000,
+            "default": true
+        },
+        {
+            "id": "8",
+            "name": "Filter strips",
+            "description": "Drainage designed to absorb water and reduce the drained impervious area. It is usually covered with grass and installed nearby/on top of the drainage system incorporated along roads and paths, but it is also found in residential and commercial areas. They are vegetated strips of land designed to absorb water and reduce permanently drained and often impervious areas. Usually installed along highways and streets as a drainage system but it is also found in residential and commercial areas. Efficiency is gained when used in combination with other Sustainable Urban Drainage Systems (e.g., retention and infiltration ponds; floodable and water parks; rain gardens; bioswales; permeable pavements; bio-retention cells; etc.). This measure seeks to reduce drained impermeable area, absorb water, and filter out pollutants.",
+            "image": "filter_strips",
+            "price": 6000,
+            "default": true
+        },
+        {
+            "id": "9",
+            "name": "Floodable Park",
+            "description": "Parks that combine vegetation with soil depression areas to absorb excess water runoff. These areas decrease excess floodwater during flooding episodes, to reduce water flow entering the public sewage, and create vegetated buffer areas reducing the effects of flooding and storm surges.",
+            "image": "floodable_park",
+            "price": 9000,
+            "default": true
+        },
+        {
+            "id": "10",
+            "name": "Floodplain enlargement",
+            "description": "A floodplain or flood plain is an area of land adjacent to a river. Floodplains stretch from the banks of a river channel to the base of the enclosing valley, and experience flooding during periods of high discharge. Enlargement and restoration of river floodplains, consisting out of lowering the level and/or increasing the width of the flood plain area next to a riverbed, removal of old sediment, planting of native grasses, shrubs, trees, invasive species removal.",
+            "image": "floodplain_enlargement",
+            "price": 11000,
+            "default": true
+        },
+        {
+            "id": "11",
+            "name": "Green dykes",
+            "description": "Green dykes rely on natural materials, such as clay, wood, rocks and stones, covered with grass or similar vegetation to create an elevated seaward/slope that reduces wave impact. The grass cover protects the dyke from erosion during extreme events. The introduction and/or restoration of green dykes reduce wave impact by implementing flood defence interventions based on natural sedimentations.",
+            "image": "green_dykes",
+            "price": 13000,
+            "default": true
+        },
+        {
+            "id": "12",
+            "name": "Green infrastructure",
+            "description": "Roads and paths (for motorized and non-motorized traffic respectively) aligned/bordered/surrounded with significant presence of vegetation, trees, and plants, that link outstanding natural areas within the city with similar environmental characteristics.",
+            "image": "green_infrastructure",
+            "price": 7000,
+            "default": true
+        },
+        {
+            "id": "13",
+            "name": "Green roofs and green walls",
+            "description": "Green surfaces composed by plants with weak roots on the top of buildings/houses, or their front walls. Smaller size infrastructure can also be covered with these layers (e.g., bus stop shelters). This measure is intended to provide insulation of buildings, to reduce indoor temperature of buildings, to absorb storm water, to save energy by reducing cooling and heating loads, to create places where people can meet.",
+            "image": "green_roofs_and_green_walls",
+            "price": 8000,
+            "default": true
+        },
+        {
+            "id": "14",
+            "name": "Green spaces",
+            "description": "Increase the urban canopy layer and plant coverage by introducing or restoring the green areas and increasing the number of urban parks and gardens. This measure is intended to contribute to the sustainable urban development by the introduction of designed and expansion of more natural urban landscape.",
+            "image": "green_spaces",
+            "price": 9000,
+            "default": true
+        },
+        {
+            "id": "15",
+            "name": "High water channel",
+            "description": "When water levels in a river rise above a certain height, and the risk of flooding is consequently high, a canal can help reduce water levels upstream. The canal is essentially a branch of a river with the entrance upstream and the exit downstream, acting as a diversion to drain extremely high-water levels of a river through a different route, so that the water can flow more quickly towards the sea.",
+            "image": "high_water_channel",
+            "price": 14000,
+            "default": true
+        },
+        {
+            "id": "16",
+            "name": "Historic wells and reservoirs",
+            "description": "Urban water retention ponds in the form of well or cistern designed to catch water from a higher elevation (roof and sloped streets) and temporarily hold run-off from precipitation. Piran had many, and most were made of a central stone shaft connected deeper down with a stone cistern encapsulating a certain capacity like a sunken room. Such underground infrastructure usually was surrounded by sand, to provide natural filtering of the water, before it was collected into the cistern/shaft, and the street surface above it consisted usually of water-permeable stone pavement.",
+            "image": "historic_wells_and_reservoirs",
+            "price": 10000,
+            "default": true
+        },
+        {
+            "id": "17",
+            "name": "Infiltration pond",
+            "description": "Land depressions designed to have water-storage capacity and manage surface runoff water during rainfall events, with intention to gradually release the water until completed drained. The ponds act as natural aquifer recharge, collecting water and allowing natural filtration. It is used to manage stormwater runoff, prevent flooding and downstream erosion, and improve water quality in an adjacent river, stream, lake or bay. This measure seeks to hold water run-off from impermeable surfaces, to allow settlement of sediments and pollutants, to restore natural infiltration to groundwater, to respond to water scarcity and drought.",
+            "image": "infiltration_pond",
+            "price": 11000,
+            "default": true
+        },
+        {
+            "id": "18",
+            "name": "Maintenance of river network",
+            "description": "Maintenance action, which includes periodic cleaning and clearing of stretches of the river with the objective of maintaining river connectivity and transport capacity, thus reducing flood flows.",
+            "image": "maintenance_of_river_network",
+            "price": 7000,
+            "default": true
+        },
+        {
+            "id": "19",
+            "name": "Marram grass planting",
+            "description": "Planting vegetation on sand dunes for coastal protection.",
+            "image": "marram_grass_planting",
+            "price": 5000,
+            "default": true
+        },
+        {
+            "id": "20",
+            "name": "Peatland restoration",
+            "description": "Restoration of the original peatland by rewetting the surface area through blocking canals, restoration of peat vegetation and planting of (resilient) peat species, to reduce flood risk and improve water quality.",
+            "image": "peatland_restoration",
+            "price": 12000,
+            "default": true
+        },
+        {
+            "id": "21",
+            "name": "Permeable pavements",
+            "description": "This measure is considered a Sustainable Urban Drainage Systems (SUDS). These are measures designed to absorb excess water and reduce the impervious area to increase drainage. It allows voids, often using sand of fine rocky material, to have an open structure, or are made of partially pervious materials. Water can pass through or around the individual stones, into the underlying soil.",
+            "image": "permeable_pavements",
+            "price": 8000,
+            "default": true
+        },
+        {
+            "id": "22",
+            "name": "Planting of trees",
+            "description": "Planting trees in streets and paved floors to provide shadow to streets, sidewalks, and buildings. This measure contributes to regulate temperature and shading, to provide cool urban streets, to control pollution levels, to improve inhabitants’ health, to encourage biodiversity.",
+            "image": "planting_of_trees",
+            "price": 7000,
+            "default": true
+        },
+        {
+            "id": "23",
+            "name": "Rainwater garden, water parks",
+            "description": "Multi-levelled gardens or parks with shallow depressions that use a special mix of sand and compost that allow water to soak in rapidly. Plants are used to filter stormwater runoff from roof tops, driveways, and streets for reabsorption.",
+            "image": "rainwater_garden_water_parks",
+            "price": 9000,
+            "default": true
+        },
+        {
+            "id": "24",
+            "name": "Rainwater harvesting",
+            "description": "Rainwater harvesting is the collection and storage of rain, rather than allowing it to run off. Rainwater is collected from a roof-like surface and redirected to a tank, cistern, deep pit (well, shaft, or borehole), aquifer, or a reservoir with percolation, so that it seeps down and restores the ground water.",
+            "image": "rainwater_harvesting",
+            "price": 10000,
+            "default": true
+        },
+        {
+            "id": "25",
+            "name": "Retention pond",
+            "description": "Green landscape designed to collect water from a higher elevation and permanently hold run-off from precipitation, melted water, and flooding episodes. This intervention is designed to improve the drainage capacity, reduce flood risk, and reduce hazardous impact of storm surges.",
+            "image": "retention_pond",
+            "price": 11000,
+            "default": true
+        },
+        {
+            "id": "26",
+            "name": "Riparian reforestation",
+            "description": "A riparian forest or riparian woodland is a forested or wooded area of land adjacent to a body of water such as a river, stream, pond, lake, marshland, estuary, canal, sink or reservoir. It implies landscape management process to restore natural processes, increase biodiversity and provide benefits to both people and wildlife. This process involves the planting of native and climate-resilient species along the banks of the stream, revegetation of micro-watersheds and the riverbed. This measure is intended to slow run-off and capture sediment before it reaches the water course, to limit down-stream flood damage to properties and livelihoods, to and avoid landslides.",
+            "image": "riparian_reforestation",
+            "price": 12000,
+            "default": true
+        },
+        {
+            "id": "27",
+            "name": "River regularisation",
+            "description": "River intervention, including desilting the bed of the river, as well as clearing and reconfiguring the outflow section. The objective of this measure is to increase the transport capacity along the river network and, consequently, a reduction in flood flows.",
+            "image": "river_regularisation",
+            "price": 13000,
+            "default": true
+        },
+        {
+            "id": "28",
+            "name": "Riverbank maintenance",
+            "description": "Erection of wooden box structures, rockfill or similar structures on the riverbanks to maintain the layout of the river network, guaranteeing the stability of the bank slopes. Green cover and geotextiles are additional measures suitable to maintain the riverbanks.",
+            "image": "riverbank_maintenance",
+            "price": 7000,
+            "default": true
+        },
+        {
+            "id": "29",
+            "name": "Riverbank heightening",
+            "description": "This involves raising the right (downstream) riverbank with natural materials, such as clay covered with grass or similar vegetation to create a slope towards the stream to reduce runoff from the stream. The green cover protects the embankment from erosion during extreme events. Geotextile strips made of natural polymers are proposed to",
+            "image": "riverbank_heightening",
+            "price": 14000,
+            "default": true
+        }
+    ]
+}
