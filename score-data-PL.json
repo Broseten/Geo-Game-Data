@@ -12,16 +12,9 @@
         "Other"
     ],
     "solutions": [
+    
         {
             "id": "2",
-            "name": "Corrected version : PL- Polish",
-            "description": "Corrected version : PL- Polish",
-            "image": "ebas/afforestation",
-            "price": 8000,
-            "default": false
-        },
-        {
-            "id": "3",
             "name": "Zalesianie",
             "description": "Zalesianie",
             "image": "ebas/beach_nourishment",
@@ -29,7 +22,7 @@
             "default": false
         },
         {
-            "id": "4",
+            "id": "3",
             "name": "Sadzenie drzew lub sianie nasion na obszarach, które nigdy nie były zalesione, w celu hodowli nowego lasu. Środek ten przyczynia się do: ograniczenia erozji gleby, zwiększenia stabilności zboczy i regulacji przepływu wody, a także ochrony społeczności przed zagrożeniami naturalnymi, zwiększenia sekwestracji dwutlenku węgla i uzupełnienia dostaw wody.",
             "description": "Sadzenie drzew lub sianie nasion na obszarach, które nigdy nie były zalesione, w celu hodowli nowego lasu. Środek ten przyczynia się do: ograniczenia erozji gleby, zwiększenia stabilności zboczy i regulacji przepływu wody, a także ochrony społeczności przed zagrożeniami naturalnymi, zwiększenia sekwestracji dwutlenku węgla i uzupełnienia dostaw wody.",
             "image": "ebas/bioswales",
@@ -37,7 +30,7 @@
             "default": false
         },
         {
-            "id": "5",
+            "id": "4",
             "name": "Sztuczne zasilanie plaży",
             "description": "Sztuczne zasilanie plaży",
             "image": "ebas/cliff_stabilisation",
@@ -45,7 +38,7 @@
             "default": false
         },
         {
-            "id": "6",
+            "id": "5",
             "name": "Uzupełnianie lub odżywianie utraconego osadu plażowego odpowiednimi (najlepiej rodzimymi lub identycznymi) osadami wypełniającymi, najlepiej pozyskiwanymi ze źródeł lokalnych. Celem środka jest ochrona plaży i zwiększenie jej przepustowości do celów rekreacyjnych w warunkach wzrastającego poziomu morza.",
             "description": "Uzupełnianie lub odżywianie utraconego osadu plażowego odpowiednimi (najlepiej rodzimymi lub identycznymi) osadami wypełniającymi, najlepiej pozyskiwanymi ze źródeł lokalnych. Celem środka jest ochrona plaży i zwiększenie jej przepustowości do celów rekreacyjnych w warunkach wzrastającego poziomu morza.",
             "image": "ebas/dry_stone_terraces",
@@ -53,7 +46,7 @@
             "default": false
         },
         {
-            "id": "7",
+            "id": "6",
             "name": "Liniowe ogrody deszczowe",
             "description": "Liniowe ogrody deszczowe",
             "image": "ebas/estuary_protection_and_regeneration",
@@ -61,7 +54,7 @@
             "default": false
         },
         {
-            "id": "8",
+            "id": "7",
             "name": "Depresja krajobrazowa, która odbiera i filtruje wodę spływającą ponownie do kanalizacji poprzez roślinność zatrzymującą wodę i materiały organiczne. Liniowe ogrody deszczowe to kanały zaprojektowane w celu koncentracji i skierowania spływu wód opadowych przy jednoczesnym usuwaniu gruzu i zanieczyszczeń. Mogą być one również przydatne do uzupełniania wód gruntowych. Składają się z koryta drenażowego o lekko nachylonych bokach. Są one najbardziej skuteczne, jeśli są umieszczone w pobliżu dachów, dróg, parkingów i podjazdów, aby wychwytywać i kierować wodę spływającą z powierzchni utwardzonych. Środek ten przyczynia się do ograniczenia infiltracji i odfiltrowania zanieczyszczeń.",
             "description": "Depresja krajobrazowa, która odbiera i filtruje wodę spływającą ponownie do kanalizacji poprzez roślinność zatrzymującą wodę i materiały organiczne. Liniowe ogrody deszczowe to kanały zaprojektowane w celu koncentracji i skierowania spływu wód opadowych przy jednoczesnym usuwaniu gruzu i zanieczyszczeń. Mogą być one również przydatne do uzupełniania wód gruntowych. Składają się z koryta drenażowego o lekko nachylonych bokach. Są one najbardziej skuteczne, jeśli są umieszczone w pobliżu dachów, dróg, parkingów i podjazdów, aby wychwytywać i kierować wodę spływającą z powierzchni utwardzonych. Środek ten przyczynia się do ograniczenia infiltracji i odfiltrowania zanieczyszczeń.",
             "image": "ebas/filter_strips",
@@ -69,7 +62,7 @@
             "default": false
         },
         {
-            "id": "9",
+            "id": "8",
             "name": "Stabilizacja klifu",
             "description": "Stabilizacja klifu",
             "image": "ebas/floodable_park",
@@ -77,7 +70,7 @@
             "default": false
         },
         {
-            "id": "10",
+            "id": "9",
             "name": "Środki zapobiegające cofaniu się klifu i zwiększające stabilność zbocza poprzez ponowne zazielenienie zbocza lub ułożenie piasku/kamyków u podnóża klifu. Środek ten ma na celu ograniczenie erozji morza u podnóża klifów oraz zmniejszenie negatywnego wpływu na środowisko i krajobraz.",
             "description": "Środki zapobiegające cofaniu się klifu i zwiększające stabilność zbocza poprzez ponowne zazielenienie zbocza lub ułożenie piasku/kamyków u podnóża klifu. Środek ten ma na celu ograniczenie erozji morza u podnóża klifów oraz zmniejszenie negatywnego wpływu na środowisko i krajobraz.",
             "image": "ebas/floodplain_enlargement",
@@ -85,7 +78,7 @@
             "default": false
         },
         {
-            "id": "11",
+            "id": "10",
             "name": "Tarasy z suchego kamienia",
             "description": "Tarasy z suchego kamienia",
             "image": "ebas/green_dykes",
@@ -93,7 +86,7 @@
             "default": false
         },
         {
-            "id": "12",
+            "id": "11",
             "name": "Ten środek dotyczy metodyki wykonywania konstrukcji kamiennych poprzez układanie jeden na drugim kamieni dostępnych w krajobrazie, bez użycia innych materiałów (np. cementu, betonu itp.), z wyjątkiem w niektórych przypadkach suchej gleby. Stabilność konstrukcji zapewnia staranny dobór i rozmieszczenie kamieni. Konstrukcje z suchego kamienia są wykorzystywane licznie w budownictwie, rolnictwie i przy hodowli zwierząt.",
             "description": "Ten środek dotyczy metodyki wykonywania konstrukcji kamiennych poprzez układanie jeden na drugim kamieni dostępnych w krajobrazie, bez użycia innych materiałów (np. cementu, betonu itp.), z wyjątkiem w niektórych przypadkach suchej gleby. Stabilność konstrukcji zapewnia staranny dobór i rozmieszczenie kamieni. Konstrukcje z suchego kamienia są wykorzystywane licznie w budownictwie, rolnictwie i przy hodowli zwierząt.",
             "image": "ebas/green_infrastructure",
@@ -101,7 +94,7 @@
             "default": false
         },
         {
-            "id": "13",
+            "id": "12",
             "name": "Ochrona i regeneraja ujścia rzeki",
             "description": "Ochrona i regeneraja ujścia rzeki",
             "image": "ebas/green_roofs_and_green_walls",
@@ -109,7 +102,7 @@
             "default": false
         },
         {
-            "id": "14",
+            "id": "13",
             "name": "Proces zarządzania krajobrazem ujścia rzeki w celu przywrócenia naturalnych procesów przywracających różnorodność biologiczną i zapewniających korzyści zarówno ludziom, jak i dzikiej przyrodzie. Ujścia rzek są stabilizowane poprzez zmniejszenie siły napływających fal, stanowiąc jednocześnie ważne źródło sekwestracji dwutlenku węgla na obszarach przybrzeżnych. Służą jako fizyczne bufory zatrzymujące nadmiar wody, rozpraszające energię fal i stabilizujące linie brzegowe.",
             "description": "Proces zarządzania krajobrazem ujścia rzeki w celu przywrócenia naturalnych procesów przywracających różnorodność biologiczną i zapewniających korzyści zarówno ludziom, jak i dzikiej przyrodzie. Ujścia rzek są stabilizowane poprzez zmniejszenie siły napływających fal, stanowiąc jednocześnie ważne źródło sekwestracji dwutlenku węgla na obszarach przybrzeżnych. Służą jako fizyczne bufory zatrzymujące nadmiar wody, rozpraszające energię fal i stabilizujące linie brzegowe.",
             "image": "ebas/green_spaces",
@@ -117,7 +110,7 @@
             "default": false
         },
         {
-            "id": "15",
+            "id": "14",
             "name": "Pasy filtracyjne",
             "description": "Pasy filtracyjne",
             "image": "ebas/high_water_channel",
@@ -125,7 +118,7 @@
             "default": false
         },
         {
-            "id": "16",
+            "id": "15",
             "name": "Pasy filtracyjne mają za zadanie wchłaniać wodę i zmniejszać odwadnianą powierzchnię nieprzepuszczalną. Drenaż zwykle jest porośnięty trawą i instalowany w pobliżu/na szczycie systemu odwadniającego wzdłuż dróg i ścieżek, ale można go również spotkać na obszarach mieszkalnych i komercyjnych. Są to porośnięte roślinnością pasy ziemi, których zadaniem jest wchłanianie wody i ograniczanie obszarów trwale osuszonych i często nieprzepuszczalnych. Zwykle instalowany wzdłuż autostrad i ulic jako system odwadniający, ale można go również znaleźć na obszarach mieszkalnych i komercyjnych. Wydajność uzyskuje się, gdy stosuje się ją w połączeniu z innymi zrównoważonymi systemami odwadniania miast (np. stawami retencyjnymi i infiltracyjnymi, terenami zalewowymi, parkami retencyjnymi, liniowymi ogrodami deszczowymi, ogrodami deszczowymi, zbiornikami retencyjnymi, przepuszczalnymi chodnikami, ogniwami bioretencyjnymi itp.). Środek ten ma na celu zmniejszenie odwodnionego obszaru nieprzepuszczalnego, wchłonięcie wody i odfiltrowanie zanieczyszczeń.",
             "description": "Pasy filtracyjne mają za zadanie wchłaniać wodę i zmniejszać odwadnianą powierzchnię nieprzepuszczalną. Drenaż zwykle jest porośnięty trawą i instalowany w pobliżu/na szczycie systemu odwadniającego wzdłuż dróg i ścieżek, ale można go również spotkać na obszarach mieszkalnych i komercyjnych. Są to porośnięte roślinnością pasy ziemi, których zadaniem jest wchłanianie wody i ograniczanie obszarów trwale osuszonych i często nieprzepuszczalnych. Zwykle instalowany wzdłuż autostrad i ulic jako system odwadniający, ale można go również znaleźć na obszarach mieszkalnych i komercyjnych. Wydajność uzyskuje się, gdy stosuje się ją w połączeniu z innymi zrównoważonymi systemami odwadniania miast (np. stawami retencyjnymi i infiltracyjnymi, terenami zalewowymi, parkami retencyjnymi, liniowymi ogrodami deszczowymi, ogrodami deszczowymi, zbiornikami retencyjnymi, przepuszczalnymi chodnikami, ogniwami bioretencyjnymi itp.). Środek ten ma na celu zmniejszenie odwodnionego obszaru nieprzepuszczalnego, wchłonięcie wody i odfiltrowanie zanieczyszczeń.",
             "image": "ebas/historic_wells_and_reservoirs",
@@ -133,7 +126,7 @@
             "default": false
         },
         {
-            "id": "17",
+            "id": "16",
             "name": "Tereny zalewowe",
             "description": "Tereny zalewowe",
             "image": "ebas/infiltration_pond",
@@ -141,7 +134,7 @@
             "default": false
         },
         {
-            "id": "18",
+            "id": "17",
             "name": "Tereny zalewowe łączą roślinność z obszarami obniżeń gleby w celu pochłaniania nadmiaru spływu wody. Obszary te zmniejszają nadmiar wód powodziowych podczas powodzi, ograniczają dopływ wody do ścieków komunalnych oraz tworzą roślinne obszary buforowe ograniczające skutki powodzi i wezbrań sztormowych.",
             "description": "Tereny zalewowe łączą roślinność z obszarami obniżeń gleby w celu pochłaniania nadmiaru spływu wody. Obszary te zmniejszają nadmiar wód powodziowych podczas powodzi, ograniczają dopływ wody do ścieków komunalnych oraz tworzą roślinne obszary buforowe ograniczające skutki powodzi i wezbrań sztormowych.",
             "image": "ebas/maintenance_of_river_network",
@@ -149,7 +142,7 @@
             "default": false
         },
         {
-            "id": "19",
+            "id": "18",
             "name": "Rekultywacja terenów zalewowych",
             "description": "Rekultywacja terenów zalewowych",
             "image": "ebas/marram_grass_planting",
@@ -157,7 +150,7 @@
             "default": false
         },
         {
-            "id": "20",
+            "id": "19",
             "name": "Tereny zalewowe lub równiny zalewowe to obszary przylegające do rzeki. Równiny zalewowe rozciągają się od brzegów koryta rzeki do podstawy otaczającej je doliny i są poddawane powodziom w okresach dużych przepływów. Powiększenie i rekultywacja obszarów zalewowych rzek, polega na obniżeniu poziomu i/lub zwiększeniu szerokości obszaru zalewowego przy korycie rzeki, usunięciu starych osadów, sadzeniu rodzimych traw, krzewów, drzew oraz usuwaniu gatunków inwazyjnych.",
             "description": "Tereny zalewowe lub równiny zalewowe to obszary przylegające do rzeki. Równiny zalewowe rozciągają się od brzegów koryta rzeki do podstawy otaczającej je doliny i są poddawane powodziom w okresach dużych przepływów. Powiększenie i rekultywacja obszarów zalewowych rzek, polega na obniżeniu poziomu i/lub zwiększeniu szerokości obszaru zalewowego przy korycie rzeki, usunięciu starych osadów, sadzeniu rodzimych traw, krzewów, drzew oraz usuwaniu gatunków inwazyjnych.",
             "image": "ebas/peatland_restoration",
@@ -165,7 +158,7 @@
             "default": false
         },
         {
-            "id": "21",
+            "id": "20",
             "name": "Zielone groble",
             "description": "Zielone groble",
             "image": "ebas/permeable_pavements",
@@ -173,7 +166,7 @@
             "default": false
         },
         {
-            "id": "22",
+            "id": "21",
             "name": "Zielone groble zbudowane są z materiałów naturalnych, takich jak: glina, drewno, skały i kamienie, pokrytych trawą lub podobną roślinnością, aby utworzyć wzniesienie od strony morza/zbocza, które ogranicza wpływ fal. Pokrywa trawiasta chroni groblę przed erozją podczas ekstremalnych zjawisk. Wprowadzenie i/lub odbudowa zielonych wałów ogranicza wpływ fal poprzez wdrożenie interwencji przeciwpowodziowych opartych na naturalnych osadach.",
             "description": "Zielone groble zbudowane są z materiałów naturalnych, takich jak: glina, drewno, skały i kamienie, pokrytych trawą lub podobną roślinnością, aby utworzyć wzniesienie od strony morza/zbocza, które ogranicza wpływ fal. Pokrywa trawiasta chroni groblę przed erozją podczas ekstremalnych zjawisk. Wprowadzenie i/lub odbudowa zielonych wałów ogranicza wpływ fal poprzez wdrożenie interwencji przeciwpowodziowych opartych na naturalnych osadach.",
             "image": "ebas/planting_of_trees",
@@ -181,7 +174,7 @@
             "default": false
         },
         {
-            "id": "23",
+            "id": "22",
             "name": "Zielone korytarze miejskie",
             "description": "Zielone korytarze miejskie",
             "image": "ebas/rainwater_garden_water_parks",
@@ -189,7 +182,7 @@
             "default": false
         },
         {
-            "id": "24",
+            "id": "23",
             "name": "Zielona infrastruktura to drogi i ścieżki (odpowiednio dla ruchu zmotoryzowanego i niezmotoryzowanego) wyrównane/ograniczone/otoczone ze znaczną obecnością roślinności, drzew i roślin, które łączą wyjątkowe obszary naturalne w mieście o podobnych cechach środowiskowych.",
             "description": "Zielona infrastruktura to drogi i ścieżki (odpowiednio dla ruchu zmotoryzowanego i niezmotoryzowanego) wyrównane/ograniczone/otoczone ze znaczną obecnością roślinności, drzew i roślin, które łączą wyjątkowe obszary naturalne w mieście o podobnych cechach środowiskowych.",
             "image": "ebas/rainwater_harvesting",
@@ -197,7 +190,7 @@
             "default": false
         },
         {
-            "id": "25",
+            "id": "24",
             "name": "Zielone dachy i ściany",
             "description": "Zielone dachy i ściany",
             "image": "ebas/retention_pond",
@@ -205,7 +198,7 @@
             "default": false
         },
         {
-            "id": "26",
+            "id": "25",
             "name": "Zielone ściany i dachy to zielone powierzchnie zbudowane z roślin o słabych korzeniach na szczytach budynków/domów lub ich ścianach frontowych. Warstwami tymi można również pokryć infrastrukturę o mniejszych rozmiarach (np. wiaty przystankowe). Działanie to ma na celu zapewnienie izolacji budynków, obniżenie temperatury wewnętrznej budynków, absorpcję wód opadowych, oszczędzanie energii poprzez zmniejszenie obciążeń chłodniczych i grzewczych oraz stworzenie miejsc spotkań dla mieszkańców miast.",
             "description": "Zielone ściany i dachy to zielone powierzchnie zbudowane z roślin o słabych korzeniach na szczytach budynków/domów lub ich ścianach frontowych. Warstwami tymi można również pokryć infrastrukturę o mniejszych rozmiarach (np. wiaty przystankowe). Działanie to ma na celu zapewnienie izolacji budynków, obniżenie temperatury wewnętrznej budynków, absorpcję wód opadowych, oszczędzanie energii poprzez zmniejszenie obciążeń chłodniczych i grzewczych oraz stworzenie miejsc spotkań dla mieszkańców miast.",
             "image": "ebas/riparian_reforestation",
@@ -213,7 +206,7 @@
             "default": false
         },
         {
-            "id": "27",
+            "id": "26",
             "name": "Miejska przestrzeń zielona",
             "description": "Miejska przestrzeń zielona",
             "image": "ebas/river_regularisation",
@@ -221,7 +214,7 @@
             "default": false
         },
         {
-            "id": "28",
+            "id": "27",
             "name": "Miejska przestrzeń zielona zwiększa drzewostan miejski i pokrycie roślinnością poprzez wprowadzenie lub przywrócenie terenów zielonych oraz zwiększenie liczby miejskich parków i ogrodów. Działanie to ma przyczynić się do zrównoważonego rozwoju miast poprzez wprowadzenie zaprojektowanego i bardziej rozbudowanego naturalnego krajobrazu miejskiego.",
             "description": "Miejska przestrzeń zielona zwiększa drzewostan miejski i pokrycie roślinnością poprzez wprowadzenie lub przywrócenie terenów zielonych oraz zwiększenie liczby miejskich parków i ogrodów. Działanie to ma przyczynić się do zrównoważonego rozwoju miast poprzez wprowadzenie zaprojektowanego i bardziej rozbudowanego naturalnego krajobrazu miejskiego.",
             "image": "ebas/riverbank_maintenance",
@@ -229,7 +222,7 @@
             "default": false
         },
         {
-            "id": "29",
+            "id": "28",
             "name": "Kanał wysokiej wody",
             "description": "Kanał wysokiej wody",
             "image": "ebas/riverbank_heightening",
