@@ -1,0 +1,240 @@
+{
+    "roles": [
+        "Community Leader",
+        "Developer",
+        "Elder",
+        "Environmentalist",
+        "Historian",
+        "Non-government Organization",
+        "Officer",
+        "Politician",
+        "Young Person",
+        "Other"
+    ],
+    "solutions": [
+        {
+            "id": "2",
+            "name": "Corrected version ES - Spanish",
+            "description": "Corrected version ES - Spanish",
+            "image": "ebas/afforestation",
+            "price": 8000,
+            "default": false
+        },
+        {
+            "id": "3",
+            "name": "Reforestación",
+            "description": "Reforestación",
+            "image": "ebas/beach_nourishment",
+            "price": 12000,
+            "default": false
+        },
+        {
+            "id": "4",
+            "name": "Plantar árboles o sembrar semillas en zonas que nunca han existido para crear un bosque. Esta medida contribuye a reducir la erosión del terreno, aumentar la estabilidad de las laderas y regular el flujo de agua y también a proteger a las comunidades de peligros naturales, aumentar la captura de carbono y recargar acuíferos.",
+            "description": "Plantar árboles o sembrar semillas en zonas que nunca han existido para crear un bosque. Esta medida contribuye a reducir la erosión del terreno, aumentar la estabilidad de las laderas y regular el flujo de agua y también a proteger a las comunidades de peligros naturales, aumentar la captura de carbono y recargar acuíferos.",
+            "image": "ebas/bioswales",
+            "price": 5000,
+            "default": false
+        },
+        {
+            "id": "5",
+            "name": "Regeneración de playa",
+            "description": "Regeneración de playa",
+            "image": "ebas/cliff_stabilisation",
+            "price": 15000,
+            "default": false
+        },
+        {
+            "id": "6",
+            "name": "Reposición o aportación del sedimento perdido de la playa con sedimentos adecuados de relleno (preferiblemente autóctonos o idénticos), y preferiblemente recuperados de fuentes locales. El objetivo es proteger la playa y aumentar la capacidad de carga con fines recreativos ante el aumento del nivel del mar.",
+            "description": "Reposición o aportación del sedimento perdido de la playa con sedimentos adecuados de relleno (preferiblemente autóctonos o idénticos), y preferiblemente recuperados de fuentes locales. El objetivo es proteger la playa y aumentar la capacidad de carga con fines recreativos ante el aumento del nivel del mar.",
+            "image": "ebas/dry_stone_terraces",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "7",
+            "name": "Zanjas de drenaje vegetadas",
+            "description": "Zanjas de drenaje vegetadas",
+            "image": "ebas/estuary_protection_and_regeneration",
+            "price": 10000,
+            "default": false
+        },
+        {
+            "id": "8",
+            "name": "Depresión del paisaje que recibe y filtra las aguas de escorrentía de regreso al sistema de alcantarillado a través de vegetación que retiene el agua y materiales orgánicos. Las zanjas de drenaje vegetada son zanjas diseñados para concentrar y canalizar las aguas pluviales mientras se eliminan los escombros y la contaminación. Estas zanjas también pueden ser útiles para recargar los acuíferos. Consisten en un canal de drenaje con lados ligeramente inclinados. Estos son más efectivos si se colocan cerca de tejados, carreteras, estacionamientos y entradas de vehículos para captar y dirigir el agua proveniente de superficies duras. Esta medida contribuye a reducir las infiltraciones y filtrar los contaminantes.",
+            "description": "Depresión del paisaje que recibe y filtra las aguas de escorrentía de regreso al sistema de alcantarillado a través de vegetación que retiene el agua y materiales orgánicos. Las zanjas de drenaje vegetada son zanjas diseñados para concentrar y canalizar las aguas pluviales mientras se eliminan los escombros y la contaminación. Estas zanjas también pueden ser útiles para recargar los acuíferos. Consisten en un canal de drenaje con lados ligeramente inclinados. Estos son más efectivos si se colocan cerca de tejados, carreteras, estacionamientos y entradas de vehículos para captar y dirigir el agua proveniente de superficies duras. Esta medida contribuye a reducir las infiltraciones y filtrar los contaminantes.",
+            "image": "ebas/filter_strips",
+            "price": 6000,
+            "default": false
+        },
+        {
+            "id": "9",
+            "name": "Estabilización de acantilados",
+            "description": "Estabilización de acantilados",
+            "image": "ebas/floodable_park",
+            "price": 9000,
+            "default": false
+        },
+        {
+            "id": "10",
+            "name": "Medidas para evitar el retroceso del acantilado y aumentar la estabilidad del talud mediante la revegetación del talud o la colocación de arena o cantos rodados al pie del acantilado (regeneración de la franja litoral). Esta medida busca reducir la erosión marina al pie de los acantilados y reducir el impacto ambiental y paisajístico negativo.",
+            "description": "Medidas para evitar el retroceso del acantilado y aumentar la estabilidad del talud mediante la revegetación del talud o la colocación de arena o cantos rodados al pie del acantilado (regeneración de la franja litoral). Esta medida busca reducir la erosión marina al pie de los acantilados y reducir el impacto ambiental y paisajístico negativo.",
+            "image": "ebas/floodplain_enlargement",
+            "price": 11000,
+            "default": false
+        },
+        {
+            "id": "11",
+            "name": "Muros de piedra seca",
+            "description": "Muros de piedra seca",
+            "image": "ebas/green_dykes",
+            "price": 13000,
+            "default": false
+        },
+        {
+            "id": "12",
+            "name": "Se trata de la metodología relacionada con la ejecución de construcciones de piedra apilando piedras disponibles en el paisaje unas sobre otras, sin utilizar ningún otro material (como cemento, hormigón, etc.), excepto a veces tierra seca. La estabilidad de las estructuras se garantiza mediante la cuidadosa selección y colocación de las piedras y, al igual que estas estructuras de piedra seca, han dado forma a numerosos y diversos paisajes, formando diferentes modos de vivienda, agricultura y ganadería.",
+            "description": "Se trata de la metodología relacionada con la ejecución de construcciones de piedra apilando piedras disponibles en el paisaje unas sobre otras, sin utilizar ningún otro material (como cemento, hormigón, etc.), excepto a veces tierra seca. La estabilidad de las estructuras se garantiza mediante la cuidadosa selección y colocación de las piedras y, al igual que estas estructuras de piedra seca, han dado forma a numerosos y diversos paisajes, formando diferentes modos de vivienda, agricultura y ganadería.",
+            "image": "ebas/green_infrastructure",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "13",
+            "name": "Protección y regeneración de estuarios",
+            "description": "Protección y regeneración de estuarios",
+            "image": "ebas/green_roofs_and_green_walls",
+            "price": 8000,
+            "default": false
+        },
+        {
+            "id": "14",
+            "name": "Consiste en la gestión del paisaje del estuario para restablecer los procesos naturales que restauran la biodiversidad y brindan beneficios tanto a las personas como a la vida silvestre. Los estuarios se estabilizan reduciendo la fuerza de las olas entrantes, al tiempo que constituyen una fuente importante de captura de carbono en las zonas costeras. Sirven como amortiguadores físicos que retienen el exceso de agua, disipan la energía de las olas y estabilizan las costas.",
+            "description": "Consiste en la gestión del paisaje del estuario para restablecer los procesos naturales que restauran la biodiversidad y brindan beneficios tanto a las personas como a la vida silvestre. Los estuarios se estabilizan reduciendo la fuerza de las olas entrantes, al tiempo que constituyen una fuente importante de captura de carbono en las zonas costeras. Sirven como amortiguadores físicos que retienen el exceso de agua, disipan la energía de las olas y estabilizan las costas.",
+            "image": "ebas/green_spaces",
+            "price": 9000,
+            "default": false
+        },
+        {
+            "id": "15",
+            "name": "Franjas filtrantes",
+            "description": "Franjas filtrantes",
+            "image": "ebas/high_water_channel",
+            "price": 14000,
+            "default": false
+        },
+        {
+            "id": "16",
+            "name": "Son franjas de terreno con vegetación diseñadas para captar agua y reducir áreas impermeables drenadas. Generalmente se cubre con césped y se instala a lo largo de carreteras y calles como sistema de drenaje, pero también se encuentra en áreas residenciales y comerciales. La eficiencia se gana cuando se utiliza en combinación con otros sistemas de drenaje urbano sostenible (por ejemplo, estanques de retención e infiltración; parques inundables; jardines de lluvia; zanjas de drenaje vegetadas; pavimentos permeables; células de biorretención, etc.). Esta medida busca reducir la superficie impermeable drenada, captar agua y filtrar contaminantes.",
+            "description": "Son franjas de terreno con vegetación diseñadas para captar agua y reducir áreas impermeables drenadas. Generalmente se cubre con césped y se instala a lo largo de carreteras y calles como sistema de drenaje, pero también se encuentra en áreas residenciales y comerciales. La eficiencia se gana cuando se utiliza en combinación con otros sistemas de drenaje urbano sostenible (por ejemplo, estanques de retención e infiltración; parques inundables; jardines de lluvia; zanjas de drenaje vegetadas; pavimentos permeables; células de biorretención, etc.). Esta medida busca reducir la superficie impermeable drenada, captar agua y filtrar contaminantes.",
+            "image": "ebas/historic_wells_and_reservoirs",
+            "price": 10000,
+            "default": false
+        },
+        {
+            "id": "17",
+            "name": "Parque inundable",
+            "description": "Parque inundable",
+            "image": "ebas/infiltration_pond",
+            "price": 11000,
+            "default": false
+        },
+        {
+            "id": "18",
+            "name": "Parques que combinan vegetación con zonas de depresión del terreno para absorber el exceso de agua de escorrentía. Estas áreas reducen el exceso de agua durante los episodios de inundación, para reducir el flujo de agua que entra en el alcantarillado público y crean áreas de amortiguamiento con vegetación que reducen los efectos de las inundaciones y las mareas meteorológicas.",
+            "description": "Parques que combinan vegetación con zonas de depresión del terreno para absorber el exceso de agua de escorrentía. Estas áreas reducen el exceso de agua durante los episodios de inundación, para reducir el flujo de agua que entra en el alcantarillado público y crean áreas de amortiguamiento con vegetación que reducen los efectos de las inundaciones y las mareas meteorológicas.",
+            "image": "ebas/maintenance_of_river_network",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "19",
+            "name": "Ampliación de la llanura aluvial",
+            "description": "Ampliación de la llanura aluvial",
+            "image": "ebas/marram_grass_planting",
+            "price": 5000,
+            "default": false
+        },
+        {
+            "id": "20",
+            "name": "Una llanura aluvial o ribera de un río es un área de terreno adyacente a un río. Las llanuras aluviales se extienden desde las orillas del cauce de un río hasta la base del valle circundante y experimentan inundaciones durante periodos de alta intensidad. Ampliación y restauración de llanuras de inundación fluviales, consistente en bajar el nivel y/o aumentar el ancho del área de inundación junto al cauce de un río, retirada de sedimentos antiguos, plantación de césped, arbustos, árboles nativos, eliminación de especies invasoras.",
+            "description": "Una llanura aluvial o ribera de un río es un área de terreno adyacente a un río. Las llanuras aluviales se extienden desde las orillas del cauce de un río hasta la base del valle circundante y experimentan inundaciones durante periodos de alta intensidad. Ampliación y restauración de llanuras de inundación fluviales, consistente en bajar el nivel y/o aumentar el ancho del área de inundación junto al cauce de un río, retirada de sedimentos antiguos, plantación de césped, arbustos, árboles nativos, eliminación de especies invasoras.",
+            "image": "ebas/peatland_restoration",
+            "price": 12000,
+            "default": false
+        },
+        {
+            "id": "21",
+            "name": "Diques verdes",
+            "description": "Diques verdes",
+            "image": "ebas/permeable_pavements",
+            "price": 8000,
+            "default": false
+        },
+        {
+            "id": "22",
+            "name": "Los diques verdes se basan en materiales naturales, como tierra, madera, rocas y piedras, cubiertos con hierba o vegetación similar para crear una pendiente elevada hacia el mar que reduce el impacto de las olas. La cubierta de hierba protege el dique de la erosión durante eventos extremos. La ejecución y/o restauración de diques verdes reduce el impacto de las olas mediante la implementación de obras de defensa contra inundaciones basadas en la sedimentación natural.",
+            "description": "Los diques verdes se basan en materiales naturales, como tierra, madera, rocas y piedras, cubiertos con hierba o vegetación similar para crear una pendiente elevada hacia el mar que reduce el impacto de las olas. La cubierta de hierba protege el dique de la erosión durante eventos extremos. La ejecución y/o restauración de diques verdes reduce el impacto de las olas mediante la implementación de obras de defensa contra inundaciones basadas en la sedimentación natural.",
+            "image": "ebas/planting_of_trees",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "23",
+            "name": "Infraestructura verde",
+            "description": "Infraestructura verde",
+            "image": "ebas/rainwater_garden_water_parks",
+            "price": 9000,
+            "default": false
+        },
+        {
+            "id": "24",
+            "name": "Vías y senderos (para tránsito motorizado y no motorizado respectivamente) rodeados con presencia significativa de vegetación, árboles y plantas, que vinculan áreas naturales destacadas dentro de la ciudad con características ambientales similares.",
+            "description": "Vías y senderos (para tránsito motorizado y no motorizado respectivamente) rodeados con presencia significativa de vegetación, árboles y plantas, que vinculan áreas naturales destacadas dentro de la ciudad con características ambientales similares.",
+            "image": "ebas/rainwater_harvesting",
+            "price": 10000,
+            "default": false
+        },
+        {
+            "id": "25",
+            "name": "Techos y paredes verdes",
+            "description": "Techos y paredes verdes",
+            "image": "ebas/retention_pond",
+            "price": 11000,
+            "default": false
+        },
+        {
+            "id": "26",
+            "name": "Superficies verdes compuestas por plantas con raíces débiles en la parte superior de edificios/casas o en sus paredes frontales. También se pueden cubrir infraestructuras de menor tamaño con estas capas (por ejemplo, marquesinas de paradas de autobús). Esta medida tiene como objetivo proporcionar aislamiento a los edificios, reducir la temperatura interior de los edificios, captar las aguas pluviales, ahorrar energía reduciendo la necesidad de refrigeración y calefacción y crear lugares donde la gente pueda reunirse.",
+            "description": "Superficies verdes compuestas por plantas con raíces débiles en la parte superior de edificios/casas o en sus paredes frontales. También se pueden cubrir infraestructuras de menor tamaño con estas capas (por ejemplo, marquesinas de paradas de autobús). Esta medida tiene como objetivo proporcionar aislamiento a los edificios, reducir la temperatura interior de los edificios, captar las aguas pluviales, ahorrar energía reduciendo la necesidad de refrigeración y calefacción y crear lugares donde la gente pueda reunirse.",
+            "image": "ebas/riparian_reforestation",
+            "price": 12000,
+            "default": false
+        },
+        {
+            "id": "27",
+            "name": "Espacios verdes",
+            "description": "Espacios verdes",
+            "image": "ebas/river_regularisation",
+            "price": 13000,
+            "default": false
+        },
+        {
+            "id": "28",
+            "name": "Incrementar la capa de cobertura vegetal urbana mediante la introducción o restauración de áreas verdes y el aumento del número de parques y jardines urbanos. Esta medida pretende contribuir al desarrollo urbano sostenible mediante la introducción de espacios urbanos diseñados y la ampliación de un paisaje urbano más natural.",
+            "description": "Incrementar la capa de cobertura vegetal urbana mediante la introducción o restauración de áreas verdes y el aumento del número de parques y jardines urbanos. Esta medida pretende contribuir al desarrollo urbano sostenible mediante la introducción de espacios urbanos diseñados y la ampliación de un paisaje urbano más natural.",
+            "image": "ebas/riverbank_maintenance",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "29",
+            "name": "Canal alto de agua",
+            "description": "Canal alto de agua",
+            "image": "ebas/riverbank_heightening",
+            "price": 14000,
+            "default": false
+        }
+    ]
+}

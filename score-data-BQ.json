@@ -1,0 +1,240 @@
+{
+    "roles": [
+        "Community Leader",
+        "Developer",
+        "Elder",
+        "Environmentalist",
+        "Historian",
+        "Non-government Organization",
+        "Officer",
+        "Politician",
+        "Young Person",
+        "Other"
+    ],
+    "solutions": [
+        {
+            "id": "2",
+            "name": "BQ - Basque",
+            "description": "BQ - Basque",
+            "image": "ebas/afforestation",
+            "price": 8000,
+            "default": false
+        },
+        {
+            "id": "3",
+            "name": "Basotzea",
+            "description": "Basotzea",
+            "image": "ebas/beach_nourishment",
+            "price": 12000,
+            "default": false
+        },
+        {
+            "id": "4",
+            "name": "Inoiz izan ez diren eremuetan zuhaitzak landatzea edo haziak ereitea, baso bat sortzeko. Neurri honek lurraren higadura murrizten, mendi-hegalen egonkortasuna handitzen eta ur-fluxua erregulatzen laguntzen du, bai eta komunitateak arrisku naturaletatik babesten, karbono-harrapaketa handitzen eta akuiferoak birkargatzen ere.",
+            "description": "Inoiz izan ez diren eremuetan zuhaitzak landatzea edo haziak ereitea, baso bat sortzeko. Neurri honek lurraren higadura murrizten, mendi-hegalen egonkortasuna handitzen eta ur-fluxua erregulatzen laguntzen du, bai eta komunitateak arrisku naturaletatik babesten, karbono-harrapaketa handitzen eta akuiferoak birkargatzen ere.",
+            "image": "ebas/bioswales",
+            "price": 5000,
+            "default": false
+        },
+        {
+            "id": "5",
+            "name": "Hondartza lehengoratzea",
+            "description": "Hondartza lehengoratzea",
+            "image": "ebas/cliff_stabilisation",
+            "price": 15000,
+            "default": false
+        },
+        {
+            "id": "6",
+            "name": "Hondartzen sedimentu galduaren birjartzea edo ekarpena, betelaneko sedimentu egokiekin (ahal dela bertakoak edo berdin-berdinak), eta, ahal dela, tokiko iturrietatik berreskuratuta. Helburua da hondartza babestea eta zama-ahalmena handitzea, itsas maila handitzen denean.",
+            "description": "Hondartzen sedimentu galduaren birjartzea edo ekarpena, betelaneko sedimentu egokiekin (ahal dela bertakoak edo berdin-berdinak), eta, ahal dela, tokiko iturrietatik berreskuratuta. Helburua da hondartza babestea eta zama-ahalmena handitzea, itsas maila handitzen denean.",
+            "image": "ebas/dry_stone_terraces",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "7",
+            "name": "Drainatze-zanga begetatuak",
+            "description": "Drainatze-zanga begetatuak",
+            "image": "ebas/estuary_protection_and_regeneration",
+            "price": 10000,
+            "default": false
+        },
+        {
+            "id": "8",
+            "name": "Ura eta material organikoak atxikitzen dituen landarediaren bidez jariatze-urak jaso eta estolderia-sistemara iragazten dituen paisaiaren sakonunea. Drainatze begetatuko zangak euri-urak kontzentratzeko eta bideratzeko diseinatutako zangak dira, hondakinak eta kutsadura deuseztatzen diren bitartean. Zangak ere erabilgarriak izan daitezke akuiferoak kargatzeko. Drainatze-kanal bat da, eta aldeak pixka bat inklinatuta ditu. Horiek eraginkorragoak dira teilatuetatik, errepideetatik, aparkalekuetatik eta ibilgailuen sarreretatik gertu jartzen badira, gainazal gogorretatik datorren ura hartzeko eta zuzentzeko. Neurri horrek infiltrazioak murrizten eta kutsatzaileak iragazten laguntzen du.",
+            "description": "Ura eta material organikoak atxikitzen dituen landarediaren bidez jariatze-urak jaso eta estolderia-sistemara iragazten dituen paisaiaren sakonunea. Drainatze begetatuko zangak euri-urak kontzentratzeko eta bideratzeko diseinatutako zangak dira, hondakinak eta kutsadura deuseztatzen diren bitartean. Zangak ere erabilgarriak izan daitezke akuiferoak kargatzeko. Drainatze-kanal bat da, eta aldeak pixka bat inklinatuta ditu. Horiek eraginkorragoak dira teilatuetatik, errepideetatik, aparkalekuetatik eta ibilgailuen sarreretatik gertu jartzen badira, gainazal gogorretatik datorren ura hartzeko eta zuzentzeko. Neurri horrek infiltrazioak murrizten eta kutsatzaileak iragazten laguntzen du.",
+            "image": "ebas/filter_strips",
+            "price": 6000,
+            "default": false
+        },
+        {
+            "id": "9",
+            "name": "Itsaslabarren egonkortzea",
+            "description": "Itsaslabarren egonkortzea",
+            "image": "ebas/floodable_park",
+            "price": 9000,
+            "default": false
+        },
+        {
+            "id": "10",
+            "name": "Itsaslabarrak atzera ez egiteko eta ezpondaren egonkortasuna handitzeko neurriak, ezponda birlandatuz edo harea edo errekarriak labarraren oinean jarriz (itsasertzeko zerrenda lehengoratzea). Neurri honen helburua itsaslabarren oinean dagoen itsas higadura murriztea eta ingurumen- eta paisaia-inpaktu negatiboa murriztea da.",
+            "description": "Itsaslabarrak atzera ez egiteko eta ezpondaren egonkortasuna handitzeko neurriak, ezponda birlandatuz edo harea edo errekarriak labarraren oinean jarriz (itsasertzeko zerrenda lehengoratzea). Neurri honen helburua itsaslabarren oinean dagoen itsas higadura murriztea eta ingurumen- eta paisaia-inpaktu negatiboa murriztea da.",
+            "image": "ebas/floodplain_enlargement",
+            "price": 11000,
+            "default": false
+        },
+        {
+            "id": "11",
+            "name": "Harri lehorreko hormak",
+            "description": "Harri lehorreko hormak",
+            "image": "ebas/green_dykes",
+            "price": 13000,
+            "default": false
+        },
+        {
+            "id": "12",
+            "name": "Paisaian erabilgarri dauden harriak bata bestearen gainean pilatuz harrizko eraikuntzak egiteari lotutako metodologia da, beste materialik erabili gabe (zementua, hormigoia, etab.), batzuetan lur lehorra izan ezik. Egituren egonkortasuna harriak kontu handiz aukeratuz eta jarriz bermatzen da, eta, harri lehorreko egitura hauek bezala, paisaia ugari eta askotarikoei forma eman diete, etxebizitza, nekazaritza eta abeltzaintza modu desberdinak eratuz.",
+            "description": "Paisaian erabilgarri dauden harriak bata bestearen gainean pilatuz harrizko eraikuntzak egiteari lotutako metodologia da, beste materialik erabili gabe (zementua, hormigoia, etab.), batzuetan lur lehorra izan ezik. Egituren egonkortasuna harriak kontu handiz aukeratuz eta jarriz bermatzen da, eta, harri lehorreko egitura hauek bezala, paisaia ugari eta askotarikoei forma eman diete, etxebizitza, nekazaritza eta abeltzaintza modu desberdinak eratuz.",
+            "image": "ebas/green_infrastructure",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "13",
+            "name": "Estuarioak babestea eta lehengoratzea",
+            "description": "Estuarioak babestea eta lehengoratzea",
+            "image": "ebas/green_roofs_and_green_walls",
+            "price": 8000,
+            "default": false
+        },
+        {
+            "id": "14",
+            "name": "Estuarioko paisaia kudeatzean datza, biodibertsitatea lehengoratzen duten eta pertsonei zein basa-bizitzari onurak ematen dizkieten prozesu naturalak berrezartzeko. Estuarioak egonkortu egiten dira sartzen diren olatuen indarra murriztuz, eta, aldi berean, karbonoa harrapatzeko iturri garrantzitsua dira kostaldean. Gehiegizko ura atxikitzen, olatuen energia xahutzen eta kostaldeak egonkortzen dituzten motelgailu fisikoak dira.",
+            "description": "Estuarioko paisaia kudeatzean datza, biodibertsitatea lehengoratzen duten eta pertsonei zein basa-bizitzari onurak ematen dizkieten prozesu naturalak berrezartzeko. Estuarioak egonkortu egiten dira sartzen diren olatuen indarra murriztuz, eta, aldi berean, karbonoa harrapatzeko iturri garrantzitsua dira kostaldean. Gehiegizko ura atxikitzen, olatuen energia xahutzen eta kostaldeak egonkortzen dituzten motelgailu fisikoak dira.",
+            "image": "ebas/green_spaces",
+            "price": 9000,
+            "default": false
+        },
+        {
+            "id": "15",
+            "name": "Zerrenda iragazleak",
+            "description": "Zerrenda iragazleak",
+            "image": "ebas/high_water_channel",
+            "price": 14000,
+            "default": false
+        },
+        {
+            "id": "16",
+            "name": "Ura hartzeko eta eremu iragazgaitz drainatuak murrizteko diseinatutako landaredia duten lur-zerrendak dira. Oro har, belarrez estaltzen da eta errepide eta kaleetan zehar instalatzen da drainatze-sistema gisa, baina bizitegi- eta merkataritza-eremuetan ere badago. Eraginkortasuna irabazten da hiri-drainatze jasangarriko beste sistema batzuekin batera erabiltzen denean (adibidez, atxikitzeko eta infiltratzeko urmaelak; urak har ditzaken parkeak; euri-lorategiak; landaredun drainatze-zangak; zoladura iragazkorrak; biomantentze-zelulak, etab.). Neurri honen helburua drainatutako azalera iragazgaitza murriztea, ura hartzea eta kutsatzaileak iragaztea da.",
+            "description": "Ura hartzeko eta eremu iragazgaitz drainatuak murrizteko diseinatutako landaredia duten lur-zerrendak dira. Oro har, belarrez estaltzen da eta errepide eta kaleetan zehar instalatzen da drainatze-sistema gisa, baina bizitegi- eta merkataritza-eremuetan ere badago. Eraginkortasuna irabazten da hiri-drainatze jasangarriko beste sistema batzuekin batera erabiltzen denean (adibidez, atxikitzeko eta infiltratzeko urmaelak; urak har ditzaken parkeak; euri-lorategiak; landaredun drainatze-zangak; zoladura iragazkorrak; biomantentze-zelulak, etab.). Neurri honen helburua drainatutako azalera iragazgaitza murriztea, ura hartzea eta kutsatzaileak iragaztea da.",
+            "image": "ebas/historic_wells_and_reservoirs",
+            "price": 10000,
+            "default": false
+        },
+        {
+            "id": "17",
+            "name": "Parke uholdagarria",
+            "description": "Parke uholdagarria",
+            "image": "ebas/infiltration_pond",
+            "price": 11000,
+            "default": false
+        },
+        {
+            "id": "18",
+            "name": "\nLandaredia eta lurraren sakonuneko eremuak konbinatzen dituzten parkeak, gehiegizko jariatze-ura xurgatzeko. Eremu hauek gehiegizko ura murrizten dute uholde-aldietan, estolderia publikoan sartzen den ur-fluxua murrizteko, eta landarediarekin moteltzeko eremuak sortzen dituzte, uholdeen eta marea meteorologikoen ondorioak murrizteko.\n",
+            "description": "\nLandaredia eta lurraren sakonuneko eremuak konbinatzen dituzten parkeak, gehiegizko jariatze-ura xurgatzeko. Eremu hauek gehiegizko ura murrizten dute uholde-aldietan, estolderia publikoan sartzen den ur-fluxua murrizteko, eta landarediarekin moteltzeko eremuak sortzen dituzte, uholdeen eta marea meteorologikoen ondorioak murrizteko.\n",
+            "image": "ebas/maintenance_of_river_network",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "19",
+            "name": "Uholde-lautada handitzea",
+            "description": "Uholde-lautada handitzea",
+            "image": "ebas/marram_grass_planting",
+            "price": 5000,
+            "default": false
+        },
+        {
+            "id": "20",
+            "name": "Uholde-lautada edo ibai baten erribera ibai baten ondoko lur-eremua da. Uholde-lautadak ibai baten ibilguaren ertzetatik inguruko haranaren oinarriraino hedatzen dira, eta uholdeak izaten dituzte intentsitate handiko aldietan. Ibaien uholde-lautadak handitzea eta lehengoratzea, hau da, ibaiaren ubidearen ondoko uholde-eremuaren maila jaistea eta/edo zabalera handitzea, antzinako sedimentuak kentzea, soropila, zuhaixkak eta zuhaitz natiboak landatzea, espezie inbaditzaileak kentzea.",
+            "description": "Uholde-lautada edo ibai baten erribera ibai baten ondoko lur-eremua da. Uholde-lautadak ibai baten ibilguaren ertzetatik inguruko haranaren oinarriraino hedatzen dira, eta uholdeak izaten dituzte intentsitate handiko aldietan. Ibaien uholde-lautadak handitzea eta lehengoratzea, hau da, ibaiaren ubidearen ondoko uholde-eremuaren maila jaistea eta/edo zabalera handitzea, antzinako sedimentuak kentzea, soropila, zuhaixkak eta zuhaitz natiboak landatzea, espezie inbaditzaileak kentzea.",
+            "image": "ebas/peatland_restoration",
+            "price": 12000,
+            "default": false
+        },
+        {
+            "id": "21",
+            "name": "Dike berdeak",
+            "description": "Dike berdeak",
+            "image": "ebas/permeable_pavements",
+            "price": 8000,
+            "default": false
+        },
+        {
+            "id": "22",
+            "name": "Dike berdeak material naturaletan oinarritzen dira, hala nola lurrean, egurrean, arroketan eta harrietan, belarrez edo antzeko landaretzaz estalita, olatuen inpaktua murrizten duen itsasorantz malda handia sortzeko. Belarrezko estalkiak dikea higaduratik babesten du muturreko gertaeretan. Dike berdeak egiteak eta/edo berritzeak murriztu egiten du olatuen inpaktua, sedimentazio naturalean oinarritutako uholdeetatik babesteko obrak ezarriz.",
+            "description": "Dike berdeak material naturaletan oinarritzen dira, hala nola lurrean, egurrean, arroketan eta harrietan, belarrez edo antzeko landaretzaz estalita, olatuen inpaktua murrizten duen itsasorantz malda handia sortzeko. Belarrezko estalkiak dikea higaduratik babesten du muturreko gertaeretan. Dike berdeak egiteak eta/edo berritzeak murriztu egiten du olatuen inpaktua, sedimentazio naturalean oinarritutako uholdeetatik babesteko obrak ezarriz.",
+            "image": "ebas/planting_of_trees",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "23",
+            "name": "Azpiegitura berdea",
+            "description": "Azpiegitura berdea",
+            "image": "ebas/rainwater_garden_water_parks",
+            "price": 9000,
+            "default": false
+        },
+        {
+            "id": "24",
+            "name": "Bide eta bidezidorrak (motordun eta motorrik gabeko joan-etorrietarako, hurrenez hurren.) landaretza, zuhaitz eta landare esanguratsuz inguratuta daude, eta antzeko ingurumen-ezaugarriak dituzten hiriko eremu natural nabarmenak lotzen dituzte.",
+            "description": "Bide eta bidezidorrak (motordun eta motorrik gabeko joan-etorrietarako, hurrenez hurren.) landaretza, zuhaitz eta landare esanguratsuz inguratuta daude, eta antzeko ingurumen-ezaugarriak dituzten hiriko eremu natural nabarmenak lotzen dituzte.",
+            "image": "ebas/rainwater_harvesting",
+            "price": 10000,
+            "default": false
+        },
+        {
+            "id": "25",
+            "name": "Sabai eta horma berdeak",
+            "description": "Sabai eta horma berdeak",
+            "image": "ebas/retention_pond",
+            "price": 11000,
+            "default": false
+        },
+        {
+            "id": "26",
+            "name": "Eraikinen/etxeen goiko aldean edo aurrealdeko hormetan sustrai ahulak dituzten landareek osatutako azalera berdeak. Tamaina txikiagoko azpiegiturak ere estal daitezke geruza hauekin (adibidez, autobus-geltokietako markesinak). Neurri honen helburua da eraikinak isolatzea, eraikinen barruko tenperatura murriztea, euri-urak hartzea, energia aurreztea hozteko eta berotzeko beharra murriztuz, eta jendea biltzeko lekuak sortzea.\n",
+            "description": "Eraikinen/etxeen goiko aldean edo aurrealdeko hormetan sustrai ahulak dituzten landareek osatutako azalera berdeak. Tamaina txikiagoko azpiegiturak ere estal daitezke geruza hauekin (adibidez, autobus-geltokietako markesinak). Neurri honen helburua da eraikinak isolatzea, eraikinen barruko tenperatura murriztea, euri-urak hartzea, energia aurreztea hozteko eta berotzeko beharra murriztuz, eta jendea biltzeko lekuak sortzea.\n",
+            "image": "ebas/riparian_reforestation",
+            "price": 12000,
+            "default": false
+        },
+        {
+            "id": "27",
+            "name": "Gune berdeak",
+            "description": "Gune berdeak",
+            "image": "ebas/river_regularisation",
+            "price": 13000,
+            "default": false
+        },
+        {
+            "id": "28",
+            "name": "Hiriko landare-estalduraren geruza handitzea, eremu berdeak sartuz edo berrituz eta hiri-parke eta -lorategi kopurua handituz. Neurri honek hiri-garapen jasangarria bultzatu nahi du, diseinatutako hiri-espazioak sartuz eta hiri-paisaia naturalagoa zabalduz.",
+            "description": "Hiriko landare-estalduraren geruza handitzea, eremu berdeak sartuz edo berrituz eta hiri-parke eta -lorategi kopurua handituz. Neurri honek hiri-garapen jasangarria bultzatu nahi du, diseinatutako hiri-espazioak sartuz eta hiri-paisaia naturalagoa zabalduz.",
+            "image": "ebas/riverbank_maintenance",
+            "price": 7000,
+            "default": false
+        },
+        {
+            "id": "29",
+            "name": "Ur-kanal altua",
+            "description": "Ur-kanal altua",
+            "image": "ebas/riverbank_heightening",
+            "price": 14000,
+            "default": false
+        }
+    ]
+}
